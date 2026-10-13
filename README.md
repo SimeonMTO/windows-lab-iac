@@ -36,4 +36,5 @@ eigenen Laborumgebung praktisch zu lernen.
 
 ## Aufbau des Repos
 
-(Wird ergänzt, sobald die ersten Skripte dazukommen.)
+- `scripts/` – PowerShell-Skripte zum Aufbau der Umgebung
+  - `01-setup-dc.ps1` – Richtet den Domaincontroller der Domäne test.local ein
