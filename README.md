@@ -28,7 +28,7 @@ eigenen Laborumgebung praktisch zu lernen.
 ## Projektstand
 
 - [x] Projekt aufgesetzt, Repository angelegt
-- [ ] Domaincontroller automatisiert aufsetzen
+- [x] Domaincontroller automatisiert aufsetzen
 - [ ] Benutzer & Gruppen aus Datei erzeugen
 - [ ] Dateiserver mit Freigaben und Berechtigungen
 - [ ] Gruppenrichtlinien per Code
